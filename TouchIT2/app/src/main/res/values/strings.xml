@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">TouchIT</string>
+
+    <!-- Texte pour le temps restant -->
+    <string name="time_text">Temps restant : %1$d secondes</string>
+
+    <!-- Texte pour le score -->
+    <string name="score_text">Score : %1$d</string>
+
+    <string name="game_over_background">Image de fin de partie</string>
+</resources>
